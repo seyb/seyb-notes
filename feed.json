@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Seyb&#x27;s notes",
+    "description": "",
+    "home_page_url": "https://seyb.github.io/seyb-notes",
+    "feed_url": "https://seyb.github.io/seyb-notes/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sébastien PENCREACH"
+    },
+    "items": [
+    ]
+}

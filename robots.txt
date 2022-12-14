@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://seyb.github.io/seyb-notes/sitemap.xml
