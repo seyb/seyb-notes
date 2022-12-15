@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Seyb&#x27;s notes</title>
-    <link href="https://seyb.github.io/seyb-notes/feed.xml" rel="self" />
-    <link href="https://seyb.github.io/seyb-notes" />
+    <link href="https://notes.seyb.io/feed.xml" rel="self" />
+    <link href="https://notes.seyb.io" />
     <updated>2022-12-15T12:25:39+01:00</updated>
     <author>
         <name>Sébastien PENCREACH</name>
     </author>
-    <id>https://seyb.github.io/seyb-notes</id>
+    <id>https://notes.seyb.io</id>
 
     <entry>
         <title>My code for sketchnotes</title>
         <author>
             <name>Sébastien PENCREACH</name>
         </author>
-        <link href="https://seyb.github.io/seyb-notes/my-code-for-sketchnotes.html"/>
-        <id>https://seyb.github.io/seyb-notes/my-code-for-sketchnotes.html</id>
-        <media:content url="https://seyb.github.io/seyb-notes/media/posts/1/Capture-decran-2022-12-15-a-12.14.59.png" medium="image" />
+        <link href="https://notes.seyb.io/my-code-for-sketchnotes.html"/>
+        <id>https://notes.seyb.io/my-code-for-sketchnotes.html</id>
+        <media:content url="https://notes.seyb.io/media/posts/1/Capture-decran-2022-12-15-a-12.14.59.png" medium="image" />
             <category term="Sketchnote"/>
 
         <updated>2022-12-15T12:25:39+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://seyb.github.io/seyb-notes/media/posts/1/Capture-decran-2022-12-15-a-12.14.59.png" alt="A person trying to catch flying glass bulbs with the text &quot;let&#x27;s capture ideas&quot;" />
+                        <img src="https://notes.seyb.io/media/posts/1/Capture-decran-2022-12-15-a-12.14.59.png" alt="A person trying to catch flying glass bulbs with the text &quot;let&#x27;s capture ideas&quot;" />
                     At the beginning of December I attended the BDX.IO conferences where I rediscovered sketchnoting. I had some practices on it a few years ago but had almost left it mostly because I lacked in organizing my notes.&nbsp; To have a fresh reboot, I decided to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://seyb.github.io/seyb-notes/media/posts/1/Capture-decran-2022-12-15-a-12.14.59.png" class="type:primaryImage" alt="A person trying to catch flying glass bulbs with the text &quot;let&#x27;s capture ideas&quot;" /></p>
+                    <p><img src="https://notes.seyb.io/media/posts/1/Capture-decran-2022-12-15-a-12.14.59.png" class="type:primaryImage" alt="A person trying to catch flying glass bulbs with the text &quot;let&#x27;s capture ideas&quot;" /></p>
                 
   <p>
     At the beginning of December I attended the <a href="https://www.bdxio.fr/" target="_blank" rel="nofollow noopener">BDX.IO</a> conferences where I rediscovered sketchnoting. I had some practices on it a few years ago but had almost left it mostly because I lacked in organizing my notes.&nbsp;
@@ -45,7 +45,7 @@
 <hr class="separator separator--long-line" />
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://seyb.github.io/seyb-notes/media/posts/1/My-code-for-skechtnotes-page-1-1.png" height="3235" width="1717" alt="Describes my code for sketchnotes: use black and grey as primary and secondary colours, use blue to highlliht some contents. Tools are a ball point pen for writing and shall use a marker for drawings. Now let's capture ideas !  "  sizes="100vw" srcset="https://seyb.github.io/seyb-notes/media/posts/1/responsive/My-code-for-skechtnotes-page-1-1-xs.png 300w ,https://seyb.github.io/seyb-notes/media/posts/1/responsive/My-code-for-skechtnotes-page-1-1-sm.png 480w ,https://seyb.github.io/seyb-notes/media/posts/1/responsive/My-code-for-skechtnotes-page-1-1-md.png 768w ,https://seyb.github.io/seyb-notes/media/posts/1/responsive/My-code-for-skechtnotes-page-1-1-lg.png 1024w ,https://seyb.github.io/seyb-notes/media/posts/1/responsive/My-code-for-skechtnotes-page-1-1-xl.png 1360w ,https://seyb.github.io/seyb-notes/media/posts/1/responsive/My-code-for-skechtnotes-page-1-1-2xl.png 1600w">
+      <img loading="lazy" src="https://notes.seyb.io/media/posts/1/My-code-for-skechtnotes-page-1-1.png" height="3235" width="1717" alt="Describes my code for sketchnotes: use black and grey as primary and secondary colours, use blue to highlliht some contents. Tools are a ball point pen for writing and shall use a marker for drawings. Now let's capture ideas !  "  sizes="100vw" srcset="https://notes.seyb.io/media/posts/1/responsive/My-code-for-skechtnotes-page-1-1-xs.png 300w ,https://notes.seyb.io/media/posts/1/responsive/My-code-for-skechtnotes-page-1-1-sm.png 480w ,https://notes.seyb.io/media/posts/1/responsive/My-code-for-skechtnotes-page-1-1-md.png 768w ,https://notes.seyb.io/media/posts/1/responsive/My-code-for-skechtnotes-page-1-1-lg.png 1024w ,https://notes.seyb.io/media/posts/1/responsive/My-code-for-skechtnotes-page-1-1-xl.png 1360w ,https://notes.seyb.io/media/posts/1/responsive/My-code-for-skechtnotes-page-1-1-2xl.png 1600w">
       
     </figure>
 
