@@ -3,10 +3,29 @@
     <title>Seyb&#x27;s notes</title>
     <link href="https://seyb.github.io/seyb-notes/feed.xml" rel="self" />
     <link href="https://seyb.github.io/seyb-notes" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2022-12-15T09:48:07+01:00</updated>
     <author>
         <name>Sébastien PENCREACH</name>
     </author>
     <id>https://seyb.github.io/seyb-notes</id>
 
+    <entry>
+        <title>My code for sketchnotes</title>
+        <author>
+            <name>Sébastien PENCREACH</name>
+        </author>
+        <link href="https://seyb.github.io/seyb-notes/my-code-for-sketchnotes.html"/>
+        <id>https://seyb.github.io/seyb-notes/my-code-for-sketchnotes.html</id>
+
+        <updated>2022-12-15T09:48:07+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>

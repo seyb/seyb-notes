@@ -5,9 +5,23 @@
     "home_page_url": "https://seyb.github.io/seyb-notes",
     "feed_url": "https://seyb.github.io/seyb-notes/feed.json",
     "user_comment": "",
+    "icon": "https://seyb.github.io/seyb-notes/media/website/Seyb-notes-page-1.svg",
     "author": {
         "name": "Sébastien PENCREACH"
     },
     "items": [
+        {
+            "id": "https://seyb.github.io/seyb-notes/my-code-for-sketchnotes.html",
+            "url": "https://seyb.github.io/seyb-notes/my-code-for-sketchnotes.html",
+            "title": "My code for sketchnotes",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Sébastien PENCREACH"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-15T09:48:07+01:00",
+            "date_modified": "2022-12-15T09:48:07+01:00"
+        }
     ]
 }
