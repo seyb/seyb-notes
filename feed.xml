@@ -3,7 +3,7 @@
     <title>Seyb&#x27;s notes</title>
     <link href="https://seyb.github.io/seyb-notes/feed.xml" rel="self" />
     <link href="https://seyb.github.io/seyb-notes" />
-    <updated>2022-12-15T09:48:07+01:00</updated>
+    <updated>2022-12-15T12:25:39+01:00</updated>
     <author>
         <name>Sébastien PENCREACH</name>
     </author>
@@ -16,12 +16,48 @@
         </author>
         <link href="https://seyb.github.io/seyb-notes/my-code-for-sketchnotes.html"/>
         <id>https://seyb.github.io/seyb-notes/my-code-for-sketchnotes.html</id>
+        <media:content url="https://seyb.github.io/seyb-notes/media/posts/1/Capture-decran-2022-12-15-a-12.14.59.png" medium="image" />
+            <category term="Sketchnote"/>
 
-        <updated>2022-12-15T09:48:07+01:00</updated>
-            <summary></summary>
+        <updated>2022-12-15T12:25:39+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://seyb.github.io/seyb-notes/media/posts/1/Capture-decran-2022-12-15-a-12.14.59.png" alt="A person trying to catch flying glass bulbs with the text &quot;let&#x27;s capture ideas&quot;" />
+                    At the beginning of December I attended the BDX.IO conferences where I rediscovered sketchnoting. I had some practices on it a few years ago but had almost left it mostly because I lacked in organizing my notes.&nbsp; To have a fresh reboot, I decided to&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://seyb.github.io/seyb-notes/media/posts/1/Capture-decran-2022-12-15-a-12.14.59.png" class="type:primaryImage" alt="A person trying to catch flying glass bulbs with the text &quot;let&#x27;s capture ideas&quot;" /></p>
                 
+  <p>
+    At the beginning of December I attended the <a href="https://www.bdxio.fr/" target="_blank" rel="nofollow noopener">BDX.IO</a> conferences where I rediscovered sketchnoting. I had some practices on it a few years ago but had almost left it mostly because I lacked in organizing my notes.&nbsp;
+  </p>
+
+    <figure class="blockquote">
+      <blockquote><strong>Sketchnotes</strong> are rich visual notes created from a mix of handwriting, drawings, hand-lettering, shapes, and visual elements like arrows, boxes, and lines.&nbsp;</blockquote>
+      <figcaption>Mike Rohde</figcaption>
+    </figure>
+
+  <p>
+    To have a fresh reboot, I decided to add some constraints: I am now using a Remarkable e-paper tablet, great for taking and organizing my notes but has a limited set of colour.&nbsp;
+  </p>
+<hr class="separator separator--long-line" />
+
+    <figure class="post__image post__image--wide">
+      <img loading="lazy" src="https://seyb.github.io/seyb-notes/media/posts/1/My-code-for-skechtnotes-page-1-1.png" height="3235" width="1717" alt="Describes my code for sketchnotes: use black and grey as primary and secondary colours, use blue to highlliht some contents. Tools are a ball point pen for writing and shall use a marker for drawings. Now let's capture ideas !  "  sizes="100vw" srcset="https://seyb.github.io/seyb-notes/media/posts/1/responsive/My-code-for-skechtnotes-page-1-1-xs.png 300w ,https://seyb.github.io/seyb-notes/media/posts/1/responsive/My-code-for-skechtnotes-page-1-1-sm.png 480w ,https://seyb.github.io/seyb-notes/media/posts/1/responsive/My-code-for-skechtnotes-page-1-1-md.png 768w ,https://seyb.github.io/seyb-notes/media/posts/1/responsive/My-code-for-skechtnotes-page-1-1-lg.png 1024w ,https://seyb.github.io/seyb-notes/media/posts/1/responsive/My-code-for-skechtnotes-page-1-1-xl.png 1360w ,https://seyb.github.io/seyb-notes/media/posts/1/responsive/My-code-for-skechtnotes-page-1-1-2xl.png 1600w">
+      
+    </figure>
+
+  <p>
+    <br>
+  </p>
+<hr class="separator separator--dots" />
+
+  <ul>
+    <li><a href="https://rohdesign.com/sketchnotes" target="_blank">The Sketchnote book</a></li><li>[FR] Video <a href="https://www.youtube.com/watch?v=ifXy9jRLWl8&amp;list=PLUJzERpatfsWYhMH0NOjSXemQh5Tu9g1W&amp;index=40" target="_blank">"La pensée visuelle a changé ma vie"</a></li>
+  </ul>
+
   <p>
     
   </p>
